@@ -8,10 +8,3 @@ Project Work Flow:
         6.)It redirect to feedback page where you need to give your feedBack
               This how my project work
 
-Note:
-    Everything work properlly in local system. when I deploy my project in netlify I faced some of the problemns. Some of the problemns I fixed it by refering google. Some problemns I can't 
-
-    The problems Are:
-        In payment if the payment is success if it redirect to the success page it says page not found error
-        Same for cancel page also
-
